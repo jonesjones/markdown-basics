@@ -64,13 +64,13 @@ Você pode criar listas alinhadas recuando da lista pelos espaços.
 
 Códigos de formatação
 
-Use um bacticks sozinho (-) para formatar um texto especial. Tudo que esta em backticks fica como está, sem uma formatação especial
+Use um bacticks sozinho (-) para formatar um texto especial. Tudo que esta em crase fica como está, sem uma formatação especial
 
 Aqui uma ideia: Porque nós não pegamos o ‘ProjetoSuperior’ e o transformamos num ‘**ProjetoRazoável’.
 
 Múltiplas linhas
 
-Você pode usar as backtips triplicadas (***) para formatar o texto com o seu bloco distinto.
+Você pode usar as crases triplicadas (***) para formatar o texto com o seu bloco distinto.
 
 Confira esse programa limpo que eu fiz:
 
