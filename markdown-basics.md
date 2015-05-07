@@ -86,11 +86,11 @@ Você pode criar listas alinhadas recuando da lista pelos espaços.
 3. Item 3
 ```
 
-#`Códigos de formatação`
+##`Códigos de formatação`
 
 Use crases sozinhas (`) para formatar um texto especial. Tudo que esta em crase fica como está, sem uma formatação especial
 
-Aqui uma ideia: Porque nós não pegamos o `ProjetoSuperior` e o transformamos num `**ProjetoRazoável`.
+`Aqui uma ideia: Porque nós não pegamos o `ProjetoSuperior` e o transformamos num `**ProjetoRazoável`.`
 
 ###Múltiplas linhas
 
@@ -104,7 +104,7 @@ X = 2 + 2
 O que é x
 ``` 
 
-`Links`
+##`Links`
 
 Você pode criar uma ligação em linha por envolvimento link texto entre colchetes (```[ ]```), e, em seguida, envolver a ligação entre parênteses (```( )```).
 Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (Www.github.com).
