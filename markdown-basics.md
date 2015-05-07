@@ -16,18 +16,18 @@ Em 2 de julho, um alien entrou na órbita da terra e implantou vários pires- em
 Você pode criar um cabeçalho adicionando um ou mais ```#``` símbolos antes do cabeçalho do seu texto. O número do # que você usa determina o cabeçalho.
 
 ```
-# O maior cabeçalho (uma <h1> etiqueta)
-## O segundo maior cabeçalho (uma <h2> etiqueta)
+#O maior cabeçalho (uma <h1> etiqueta)
+##O segundo maior cabeçalho (uma <h2> etiqueta)
 ...
-###### O sexto maior cabeçalho (uma <h6> etiqueta)
+######O sexto maior cabeçalho (uma <h6> etiqueta)
 ```
 
-###### Citações em bloco
+######Citações em bloco
 
 Você pode indicar citações em bloco com um ```>```.
 ```
 Nas palavras de Abraham Lincoln:
-> Perdão meu amigo.
+>Perdão meu amigo.
 ```
 
 ###Estilo do texto
@@ -90,7 +90,7 @@ Você pode criar listas alinhadas recuando da lista pelos espaços.
 
 Use crases sozinhas (`) para formatar um texto especial. Tudo que esta em crase fica como está, sem uma formatação especial
 
-`Aqui uma ideia: Porque nós não pegamos o `ProjetoSuperior` e o transformamos num `**ProjetoRazoável`.`
+```Aqui uma ideia: Porque nós não pegamos o `ProjetoSuperior` e o transformamos num `**ProjetoRazoável`.```
 
 ###Múltiplas linhas
 
