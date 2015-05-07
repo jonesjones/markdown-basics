@@ -43,7 +43,7 @@ Você pode colocar o texto em **negrito** ou *itálico*
 Ambos negrito e itálico podem usar um ```*``` ou um ```_``` pelo texto para o estilo. Esse permite que você combine negrito com itálico se precisar.
 
 ```
-** Todo o mundo _deve_ participar da reunião hoje às 5 horas.**
+** Todo o mundo _deve_ participar da reunião hoje às 5 horas. **
 ```
 
 ##Listas
@@ -73,7 +73,7 @@ Você pode criar uma lista ordenada procedendo a listas com ```*``` ou ```-```
 ###Listas alinhadas
 
 Você pode criar listas alinhadas recuando da lista pelos espaços.
-
+```
 1.	Item 1
  1. Um corolário acima do item.
  2. Ainda nenhum ponto a considerar.
@@ -83,15 +83,16 @@ Você pode criar listas alinhadas recuando da lista pelos espaços.
 * Um corolário não precisa ser solicitado
 * Isso é recortado por quatro espaços, porque dois espaços é menor que o item acima.
 * Você tem que considerar a nova lista
+3. Item 3
+```
 
+#`Códigos de formatação`
 
-`Códigos de formatação`
-
-Use um crases sozinho (`) para formatar um texto especial. Tudo que esta em crase fica como está, sem uma formatação especial
+Use crases sozinhas (`) para formatar um texto especial. Tudo que esta em crase fica como está, sem uma formatação especial
 
 Aqui uma ideia: Porque nós não pegamos o `ProjetoSuperior` e o transformamos num `**ProjetoRazoável`.
 
-Múltiplas linhas
+###Múltiplas linhas
 
 Você pode usar as crases triplicadas (```) para formatar o texto com o seu bloco distinto.
 
@@ -105,6 +106,6 @@ O que é x
 
 `Links`
 
-Você pode criar uma ligação em linha por envolvimento link texto entre colchetes ([ ]), e, em seguida, envolver a ligação entre parênteses ( ( ) ).
+Você pode criar uma ligação em linha por envolvimento link texto entre colchetes (```[ ]```), e, em seguida, envolver a ligação entre parênteses (```( )```).
 Por exemplo, para criar um hiperlink para www.github.com, com um texto de link que diz, Visita GitHub !, você escreveria isso em Markdown: [Visite GitHub!] (Www.github.com).
 
